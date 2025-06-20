@@ -1,35 +1,37 @@
-🔎 What is Google Colab?
-Google Colab (Colaboratory) is a free online tool provided by Google that lets you write and run Python code in your browser — just like Jupyter Notebooks.
+# 🔎 What is Google Colab?
 
-✅ Why Use Google Colab?
-🟢 No installation needed – Just open a browser!
+**Google Colab (Colaboratory)** is a free online tool provided by Google that lets you **write and run Python code in your browser** — just like Jupyter Notebooks.
 
-💾 Free access to GPUs – Great for data science and machine learning
+---
 
-☁️ Cloud-based – Work from anywhere and save your work in Google Drive
+## ✅ Why Use Google Colab?
 
-👥 Shareable – Easily collaborate like Google Docs
+- 🟢 **No installation needed** – Just open a browser!
+- 💾 **Free access to GPUs** – Great for data science and machine learning
+- ☁️ **Cloud-based** – Work from anywhere and save your work in Google Drive
+- 👥 **Shareable** – Easily collaborate like Google Docs
 
-🛠 How to Use Google Colab
-Go to 👉 https://colab.research.google.com
+---
 
-Sign in with your Google account
+## 🛠 How to Use Google Colab
 
-You can:
+1. Go to 👉 [https://colab.research.google.com](https://colab.research.google.com)
+2. Sign in with your **Google account**
+3. You can:
+   - 📂 Open `.ipynb` files from your computer or GitHub
+   - 📝 Create a new notebook from scratch
+4. Click **"▶️ Run"** on each cell to execute Python code
+5. Use `Shift + Enter` to run cells quickly
 
-📂 Open .ipynb files from your computer or GitHub
+---
 
-📝 Create a new notebook from scratch
+## 🧠 Example Use Cases
 
-Click "▶️" Run on each cell to execute Python code
+- Learn and practice **Python**
+- Do **data analysis** with `Pandas`
+- Visualize data with `Matplotlib` or `Seaborn`
+- Build and train **ML models** with `Scikit-learn`, `TensorFlow`, or `PyTorch`
 
-Use Shift + Enter to run cells quickly
+---
 
-🧠 Example Use Cases
-Learn and practice Python
-
-Do data analysis with Pandas
-
-Visualize data with Matplotlib or Seaborn
-
-Build and train ML models with Scikit-learn, TensorFlow, or PyTorch
+> 🔗 This README is part of the [Python For Data Science](https://github.com/Mahfujul-01726/Python-For-Data-Science) class materials.
